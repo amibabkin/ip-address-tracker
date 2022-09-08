@@ -3,8 +3,8 @@
 *.fig
 .DS_Store
 
-build/
-# dist/
+# build/
+dist/
 
 .cache/
 node_modules/
