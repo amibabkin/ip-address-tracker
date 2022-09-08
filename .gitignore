@@ -1,0 +1,11 @@
+*.sketch
+*.xd
+*.fig
+.DS_Store
+
+build/
+# dist/
+
+.cache/
+node_modules/
+.vscode/
