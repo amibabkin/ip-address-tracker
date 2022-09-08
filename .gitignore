@@ -3,7 +3,7 @@
 *.fig
 .DS_Store
 
-# build/
+build/
 dist/
 
 .cache/
